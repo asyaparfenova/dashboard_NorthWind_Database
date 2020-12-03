@@ -1,7 +1,7 @@
 # dashboard_NorthWind_Database
 Building a dashboard summarizing the Northwind Database
 
-[Dashboard](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/dashboard_prtscr.png?raw=true "Metabase Dashboard / PrintScreen")
+![Dashboard](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/dashboard_prtscr.png?raw=true "Metabase Dashboard / PrintScreen")
 
 In this project, I built a dashboard using open source service Metabase summarizing the Northwind Database. It is a sample database that is shipped along with Microsoft Access. The data is about “Northwind Traders”, a fictional company. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers.
 Data is available here: https://github.com/pawlodkowski/northwind_data_clean, it was prepared by SPICED Academy Instructor Paul Wlodkowski. 
