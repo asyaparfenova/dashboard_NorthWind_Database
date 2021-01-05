@@ -7,8 +7,12 @@ In this project, I built a dashboard using open source service Metabase summariz
 Data  was prepared by SPICED Academy Instructor [Paul Wlodkowski](https://github.com/pawlodkowski) and available in [his repository](https://github.com/pawlodkowski/northwind_data_clean). 
 
 For this project data was apploaded into PostgreSQL Database in Amazon RDS instance. Then Metabase was installed on an AWS EC2 Machine and used for creating a publically available [Metabase dashboard](http://52.59.170.229/public/dashboard/c8bd210d-3b70-4d7f-916d-ffe902ebd4c6).
+![Metabase preview](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/dashboard_full.png?raw=true "Metabase Preview")
+<div style="text-align:center"><img src="https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/dashboard_full.png?raw=true" /></div>
 
 I also created a dashboard for this dataset in Power BI, following instructions from [this lesson](https://www.youtube.com/watch?v=czON7fhEuYI&t=1599s) in YouTube Channel [PK: An Excel Expert](https://www.youtube.com/c/PKAnExcelExpert/about)
+
+![PowerBI](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/PowerBI1.png?raw=true "PowerBI Dashboard / Printscreen")
 
 ![PowerBI](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/PowerBI1.png?raw=true "PowerBI Dashboard / Printscreen")
 
