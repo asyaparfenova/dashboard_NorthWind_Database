@@ -21,5 +21,8 @@ I also created a dashboard for this dataset in Power BI, following instructions 
 [Here](https://github.com/asyaparfenova/dashboard_NorthWind_Database/tree/main/PowerBI) you can see the Dashboard in more details.
 
 ### Repo content:
-- In file database_creation.sql there is sql-code for creating tables and copying data from csv-files (check the path!) to database. It works only from command line!
-- In file dashboard_queries.sql there are some examples of sql-queries that I used to create a dashboard in metabase.
+- In directory [SQL_queries](https://github.com/asyaparfenova/dashboard_NorthWind_Database/tree/main/SQL_queries) you can find the command line code for creating postgres-database from csv files and data-requesting queries:
+  - In file database_creation.sql there is sql-code for creating tables and copying data from csv-files (check the path!) to database. It works only from command line!
+  - In file dashboard_queries.sql there are some examples of sql-queries that I used to create a dashboard in metabase.
+- In directory [PowerBI](https://github.com/asyaparfenova/dashboard_NorthWind_Database/tree/main/PowerBI) you can find the markdown file with some Power BI Dashboard details
+- "images" directory is storing images, used in this repository.
