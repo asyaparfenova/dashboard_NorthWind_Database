@@ -18,6 +18,8 @@ I also created a dashboard for this dataset in Power BI, following instructions 
 
 ![PowerBI](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/PowerBI1.png?raw=true "PowerBI Dashboard / Printscreen")
 
+[Here](https://github.com/asyaparfenova/dashboard_NorthWind_Database/tree/main/PowerBI) you can see the Dashboard in more details.
+
 ### Repo content:
 - In file database_creation.sql there is sql-code for creating tables and copying data from csv-files (check the path!) to database. It works only from command line!
 - In file dashboard_queries.sql there are some examples of sql-queries that I used to create a dashboard in metabase.
