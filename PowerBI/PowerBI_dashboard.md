@@ -19,19 +19,19 @@ The board on the left have buttons that allow to switch between pages.
 
 On top we have slicers that allow us to filter data by category and product, country and city, employees titles and names and by period.
 
-PICTURE
+![Dashboard Detail / Slicer](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/NW_PowerBI_page_slicer.png?raw=true "Dashboard Detail / Slicer")  ![Dashboard Detail / Time Slicer](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/NW_PowerBI_page_time_slicer.png?raw=true "Dashboard Detail / Time Slicer")
 
 Lower I placed some important KPIs and theirs quarterly trends.
 
-PICTURE
+![Dashboard Detail / KPIs](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/NW_PowerBI_kpis.png?raw=true "Dashboard Detail / KPIs")
 
 The interactive map shows the net revenue by country.
 
-PICTURE
+![Dashboard Detail / Map-Countries](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/NW_PowerBI_country_map.png?raw=true "Dashboard Detail / Map-Countries")
 
 And also allows you to go down on city level.
 
-PICTURE
+![Dashboard Detail / Map-Cities](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/NW_PowerBI_city_map.png?raw=true "Dashboard Detail / Map-Cities")
 
 ## Category and Product
 
