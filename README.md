@@ -8,7 +8,7 @@ Building a dashboard summarizing the Northwind Database
 In this project, I built a dashboard using open source service Metabase summarizing the Northwind Database. It is a sample database that is shipped along with Microsoft Access. The data is about “Northwind Traders”, a fictional company. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers.
 Data  was prepared by SPICED Academy Instructor [Paul Wlodkowski](https://github.com/pawlodkowski) and available in [his repository](https://github.com/pawlodkowski/northwind_data_clean). 
 
-For this project data was apploaded into PostgreSQL Database in Amazon RDS instance. Then Metabase was installed on an AWS EC2 Machine and used for creating a ~~publically available~~ [Metabase dashboard](http://52.59.170.229/public/dashboard/c8bd210d-3b70-4d7f-916d-ffe902ebd4c6) (is not available anymore sinda EC2 stopped and RDS deleted).
+For this project data was apploaded into PostgreSQL Database in Amazon RDS instance. Then Metabase was installed on an AWS EC2 Machine and used for creating a ~~publically available~~ [Metabase dashboard](http://52.59.170.229/public/dashboard/c8bd210d-3b70-4d7f-916d-ffe902ebd4c6) (is not available anymore: EC2 stopped and RDS deleted).
 
 ![Metabase preview](https://github.com/asyaparfenova/dashboard_NorthWind_Database/blob/main/images/dashboard_full.png?raw=true "Metabase Preview")
 
